@@ -1,0 +1,2 @@
+# storage
+Azurite, databases, etc.
