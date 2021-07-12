@@ -83,5 +83,7 @@ services:
             - storage
 
 networks:
-    storage:
-        name: storage
+  storage:
+      name: storage
+      external: true
+      driver: overlay
